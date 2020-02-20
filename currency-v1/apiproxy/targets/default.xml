@@ -53,7 +53,9 @@
 
 	<PostFlow>
 		 <Request>
-			<Name>AssignMessage.SetHost</Name>
+			<Step>
+				<Name>AssignMessage.SetHost</Name>
+			</Step>
 		 </Request>
 	</PostFlow>
 
