@@ -1,0 +1,7 @@
+<AssignMessage name="AssignMessage.SetHost">
+	<Set>
+        	<Headers>
+			<Header name="Host">api.frankfurter.app</Header>
+		</Headers>
+	</Set>
+</AssignMessage>

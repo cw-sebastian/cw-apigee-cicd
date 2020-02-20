@@ -52,7 +52,9 @@
 	</Flows>
 
 	<PostFlow>
-		 <Request/>
+		 <Request>
+			<Name>AssignMessage.SetHost</Name>
+		 </Request>
 	</PostFlow>
 
 	<HTTPTargetConnection>
