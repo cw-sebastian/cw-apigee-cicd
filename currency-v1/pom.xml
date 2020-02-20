@@ -206,7 +206,7 @@
                 			        <phase>install</phase>
 				                <configuration>
                   	          			<target>
-                                				<sleep seconds="10" />
+                                				<sleep seconds="30" />
                             				</target>
                         			</configuration>
                         			<goals>
